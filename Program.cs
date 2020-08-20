@@ -6,7 +6,7 @@ namespace math_project_csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\nWould you like to do a math problem? Enter Y for Yes or any other key to quit.");
+            Console.WriteLine("Would you like to do a math problem? Enter Y for Yes or any other key to quit.");
             var yesOrNo = Console.ReadLine();
             while (string.Equals("y", yesOrNo, StringComparison.CurrentCultureIgnoreCase)) {
                 Random random = new Random();
@@ -30,14 +30,14 @@ namespace math_project_csharp
                         }
                     }
                 } catch (Exception) {
-                    Console.WriteLine("Sorry, that wasn't a number. Press Q to Quit or any other key to continue playing.");
+                    Console.WriteLine("Sorry, that wasn't a number. Enter Q to Quit or any other key to continue playing.");
                     if  (string.Equals("q", Console.ReadLine(), StringComparison.CurrentCultureIgnoreCase)) {
                         Console.WriteLine("Ok, goodbye!");
                         break;
                     } 
                 }                              
             }   
-            Console.Write("\nPress any key to close the program.");
+            Console.Write("Press any key to close the program.");
             Console.ReadKey(true);            
         }
     }
