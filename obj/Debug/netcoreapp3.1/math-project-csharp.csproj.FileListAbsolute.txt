@@ -1,0 +1,13 @@
+C:\Users\maggie\Documents\GitHub\math-project-csharp\bin\Debug\netcoreapp3.1\math-project-csharp.exe
+C:\Users\maggie\Documents\GitHub\math-project-csharp\bin\Debug\netcoreapp3.1\math-project-csharp.deps.json
+C:\Users\maggie\Documents\GitHub\math-project-csharp\bin\Debug\netcoreapp3.1\math-project-csharp.runtimeconfig.json
+C:\Users\maggie\Documents\GitHub\math-project-csharp\bin\Debug\netcoreapp3.1\math-project-csharp.runtimeconfig.dev.json
+C:\Users\maggie\Documents\GitHub\math-project-csharp\bin\Debug\netcoreapp3.1\math-project-csharp.dll
+C:\Users\maggie\Documents\GitHub\math-project-csharp\bin\Debug\netcoreapp3.1\math-project-csharp.pdb
+C:\Users\maggie\Documents\GitHub\math-project-csharp\obj\Debug\netcoreapp3.1\math-project-csharp.csprojAssemblyReference.cache
+C:\Users\maggie\Documents\GitHub\math-project-csharp\obj\Debug\netcoreapp3.1\math-project-csharp.AssemblyInfoInputs.cache
+C:\Users\maggie\Documents\GitHub\math-project-csharp\obj\Debug\netcoreapp3.1\math-project-csharp.AssemblyInfo.cs
+C:\Users\maggie\Documents\GitHub\math-project-csharp\obj\Debug\netcoreapp3.1\math-project-csharp.csproj.CoreCompileInputs.cache
+C:\Users\maggie\Documents\GitHub\math-project-csharp\obj\Debug\netcoreapp3.1\math-project-csharp.dll
+C:\Users\maggie\Documents\GitHub\math-project-csharp\obj\Debug\netcoreapp3.1\math-project-csharp.pdb
+C:\Users\maggie\Documents\GitHub\math-project-csharp\obj\Debug\netcoreapp3.1\math-project-csharp.genruntimeconfig.cache
